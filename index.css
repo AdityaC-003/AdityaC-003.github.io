@@ -1,0 +1,59 @@
+/* FILEPATH: /home/adc/Documents/AdityaC-003.github.io/index.css */
+
+/* Set background color and font family */
+body {
+  background-color: #f8f8f8;
+  font-family: Arial, sans-serif;
+}
+
+/* Center the main content */
+.main-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Style the header */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Style the navigation menu */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #555;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Style the main content area */
+.main-content {
+  padding: 20px;
+}
+
+/* Style the footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
